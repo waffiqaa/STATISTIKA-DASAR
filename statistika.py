@@ -1,5 +1,5 @@
 #Data jumlah jam kerja per minggu
-data = [20, 23, 28, 20, 10, 28]
+data = [35, 30, 35, 30, 24]
 
 # 1. Menghitung Modus
 from collections import Counter
