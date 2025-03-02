@@ -1,4 +1,4 @@
-#Data jumlah jam kerja per minggu
+#Data jumlah siswa kelas 12 MIPA
 data = [35, 30, 35, 30, 24]
 
 # 1. Menghitung Modus
